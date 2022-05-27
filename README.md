@@ -3,4 +3,4 @@
 Rhino mangagement system CMS
 
 Websites:
-- [Documentation](rms-software.github.io/RMS-documentation)
+- [Documentation](https://rms-software.github.io/RMS-documentation)
