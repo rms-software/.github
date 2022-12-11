@@ -13,11 +13,6 @@
 
 Rhino mangagement system CMS
 
-RMS Websites:
-- [Documentation](https://rms-software.github.io/RMS-documentation)
-- [API](https://rhino-ms.herokuapp.com/)
-- [Portal](https://rms-software.github.io/Portal)
-
 Client Websites:
 - [De Wit Worstenbrood](https://www.dewitworstenbrood.nl)
 - [Brugmans Springkussenverhuur](brugmansspringkussenverhuur.nl)
